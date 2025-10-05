@@ -1,1 +1,2 @@
 # scotchio-ultimate-algorithms-course
+Learning about data structures and algorithms by following this scotch.io course. A lot of resources for dsa are in Python, and I prefer following along with JavaScript!
